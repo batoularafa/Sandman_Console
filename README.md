@@ -1,7 +1,7 @@
 ## 🤖 Sandman GUI (PyQt + ROS + Joystick)
 
 > ⚠️ **Note:**  
-> This repository is a **public copy** of a private project originally developed under the **AURobotics organization** — the official technical subteam of my university.  
+> This repository is a **public copy** of a private project originally developed under the **AURobotics organization** — a technical subteam for my university.  
 > The code was recreated and published here for **academic and demonstration purposes** only.
 
 ---
